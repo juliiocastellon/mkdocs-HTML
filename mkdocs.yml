@@ -8,6 +8,8 @@ nav:
   - Guía:
       - Quickstart: guia/quickstart.md
       - Etiquetas HTML: guia/etiquetas.md
+      - Enlaces HTML: guia/enlaces.md
+      - Imágenes HTML: guia/imagenes.md
   - Referencia:
       - Comandos: referencia/comandos.md
       - FAQ: referencia/faq.md
