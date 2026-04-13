@@ -1,9 +1,3 @@
-
----
-
-## `referencia/faq.md` 
-
-```md id="s2q3cf"
 # FAQ
 
 ## Objetivo
