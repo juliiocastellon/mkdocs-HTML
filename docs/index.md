@@ -1,17 +1,16 @@
-# Welcome to MkDocs
+# Documentación HTML
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Objetivo
+Explicar los conceptos básicos de HTML.
 
-## Commands
+## Pasos
+1. Aprender qué es HTML
+2. Usar etiquetas básicas
+3. Crear páginas web
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Verificación
+Abrir un archivo .html en el navegador.
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Errores frecuentes
+- Olvidar cerrar etiquetas
+- Escribir mal las etiquetas

@@ -1,1 +1,13 @@
-site_name: My Docs
+site_name: "Documentación HTML"
+
+theme:
+  name: material
+
+nav:
+  - Inicio: index.md
+  - Guía:
+      - Quickstart: guia/quickstart.md
+      - Etiquetas HTML: guia/etiquetas.md
+  - Referencia:
+      - Comandos: referencia/comandos.md
+      - FAQ: referencia/faq.md
